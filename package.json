@@ -1,0 +1,6 @@
+{
+  "name": "ghost.app",
+  "displayName": "Ghost Build",
+  "version": "1.0.0",
+  "private": true
+}
